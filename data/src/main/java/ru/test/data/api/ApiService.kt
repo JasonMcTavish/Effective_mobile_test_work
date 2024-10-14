@@ -1,0 +1,10 @@
+package ru.test.data.api
+
+import retrofit2.Response
+import retrofit2.http.GET
+import ru.test.data.model.DataModel
+
+interface ApiService {
+    @GET("u/0/uc?id=1z4TbeDkbfXkvgpoJprXbN85uCcD7f00r&export=download")
+    suspend fun getData(): Response<DataModel>
+}

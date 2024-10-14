@@ -1,0 +1,27 @@
+<resources>
+    <string name="published">Опубликовано %s</string>
+    <string name="this_is_responses_fragment">Страница откликов</string>
+    <string name="this_is_profile_fragment">Страница профиля</string>
+    <string name="this_is_messages_fragment">Страница сообщений</string>
+
+    <plurals name="people_watching">
+        <item quantity="one">Сейчас просматривает %d человек</item>
+        <item quantity="few">Сейчас просматривают %d человека</item>
+        <item quantity="many">Сейчас просматривают %d человек</item>
+        <item quantity="other">Сейчас просматривают %d человек</item>
+    </plurals>
+
+    <plurals name="more_vacancies">
+        <item quantity="one">Еще %d вакансия</item>
+        <item quantity="few">Еще %d вакансии</item>
+        <item quantity="many">Еще %d вакансий</item>
+        <item quantity="other">Еще %d вакансий</item>
+    </plurals>
+
+    <plurals name="vacancies">
+        <item quantity="one">%d вакансия</item>
+        <item quantity="few">%d вакансии</item>
+        <item quantity="many">%d вакансий</item>
+        <item quantity="other">%d вакансий</item>
+    </plurals>
+</resources>
